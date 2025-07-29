@@ -1155,14 +1155,14 @@ prompt_toolkit = ">=2.0,<4.0"
 
 [[package]]
 name = "realtime"
-version = "2.6.0"
+version = "2.7.0"
 description = ""
 optional = false
 python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "realtime-2.6.0-py3-none-any.whl", hash = "sha256:a0512d71044c2621455bc87d1c171739967edc161381994de54e0989ca6c348e"},
-    {file = "realtime-2.6.0.tar.gz", hash = "sha256:f68743cff85d3113659fa19835a868674e720465649bf833e1cd47d7da0f7bbd"},
+    {file = "realtime-2.7.0-py3-none-any.whl", hash = "sha256:d55a278803529a69d61c7174f16563a9cfa5bacc1664f656959694481903d99c"},
+    {file = "realtime-2.7.0.tar.gz", hash = "sha256:6b9434eeba8d756c8faf94fc0a32081d09f250d14d82b90341170602adbb019f"},
 ]
 
 [package.dependencies]
@@ -1596,4 +1596,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.9"
-content-hash = "0eef926769454106b96cbff03d2d4cfd0012b31ab1ed209d774aa0d69db151a0"
+content-hash = "7c9ca864e071848ab62f8154241d41d56bf7f855edc734415a79cea0a0b8c7dd"
